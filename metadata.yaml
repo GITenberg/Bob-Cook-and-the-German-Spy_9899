@@ -1,0 +1,25 @@
+_repo: Bob-Cook-and-the-German-Spy_9899
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tomlinson, Paul G. (Paul Greene)
+    alias: Tomlinson, Paul Greene
+    birthdate: 1888
+    gutenberg_agent_id: '3194'
+    url: http://www.gutenberg.org/2009/agents/3194
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spies -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Bob Cook and the German Spy
+url: http://www.gutenberg.org/ebooks/9899
